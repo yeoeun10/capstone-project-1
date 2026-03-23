@@ -10,7 +10,8 @@ This project investigates how important sleep is, especially in adolescents.
 How does sleep deprivation affect memory, focus, and academic performance in teenagers?
 
 ## Research
-#Effects on the Brain and Learning
+Effects on the Brain and Learning
+
 During sleep, the brain processes and stores information learned during the day.
 If teens don’t sleep enough, they may experience:
 Poor memory
