@@ -2,25 +2,24 @@
 # Capstone Project
 
 ## 📌 Project Title
-How Effective is Hand Hygiene in Preventing Infectious Disease Transmission?
+Sleep deprivatin effects on adolscents 
 
 ## 📖 Overview
-This project investigates how hand hygiene affects the spread of infectious diseases, especially in adolescents.
+This project investigates how important sleep is, especially in adolescents.
 
 ## ❓ Research Question
-How effective is hand hygiene in preventing infectious disease transmission?
+How does sleep deprivation affect memory, focus, and academic performance in teenagers?
 
 ## 🧪 Method
 - Survey conducted among students
 - Data collected and analyzed
+- Informations from different articles and videos
 
 ## 📊 Results
-(You will add your results later)
+
 
 ## 📁 Files
-- survey.pdf
-- results.xlsx
-- presentation.pptx
+-
 
 ## 👩‍🎓 Author
-Your Name
+Sally Choi
