@@ -10,7 +10,7 @@ This project investigates how important sleep is, especially in adolescents.
 How does sleep deprivation affect memory, focus, and academic performance in teenagers?
 
 ## Research
-Effects on the Brain and Learning
+- Effects on the Brain and Learning
 
 During sleep, the brain processes and stores information learned during the day.
 If teens don’t sleep enough, they may experience:
@@ -20,7 +20,7 @@ Slower thinking and problem-solving
 Lower academic performance
 Sleep helps the brain organize memories, which is important for studying and learning new material.
 
-Daytime Tiredness
+- Daytime Tiredness
 
 Lack of sleep often causes:
 Feeling very tired during school
@@ -28,7 +28,7 @@ Difficulty staying awake
 Less motivation to participate in class
 This can make learning much harder.
 
-Effects on Mood and Mental Health
+- Effects on Mood and Mental Health
 
 Sleep deprivation can also affect emotions.
 Adolescents who don’t get enough sleep may experience:
@@ -37,7 +37,7 @@ Higher stress levels
 Mood swings
 Increased risk of anxiety or sadness
 
-Effects on Physical Health
+- Effects on Physical Health
 
 Sleep is also important for the body’s development.
 Not getting enough sleep may lead to:
