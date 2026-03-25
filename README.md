@@ -82,6 +82,15 @@ Sleep deprivation affects different regions of the brain:
 | Amygdala           | Emotional processing         | Over-reactive; increased anxiety          |
 | Visual Cortex      | Processing sight             | Reduced signaling; possible hallucinations|
 
+* How sleep affects memory:
+
+During sleep, the brain strengthens connections between neurons (called Memory consolidation)
+
+**What is 'Memory Consolidation?'**
+
+- 
+
+What to research:
 
 ## Sources
 - Survey conducted among students
